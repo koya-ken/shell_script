@@ -1,0 +1,4 @@
+*.log
+ascript_with_block.bash
+ascript_without_block.bash
+setup/
