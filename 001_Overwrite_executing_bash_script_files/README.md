@@ -38,5 +38,5 @@ inodeはlsに-iオプションをつけると確認できる。
 スクリプトをブロックで囲み、全ての処理をメモリ上においてから実行する。  
 bash 5.0.17(1)-release で試したところ、あまりコード量が多いとSegmentation fault となっていた。
 
-https://stackoverflow.com/questions/21096478/overwrite-executing-bash-script-files
+https://stackoverflow.com/questions/21096478/overwrite-executing-bash-script-files  
 https://craftsman-software.com/posts/62
